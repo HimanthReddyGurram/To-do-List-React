@@ -1,4 +1,4 @@
-# toDoList-React
+# To do List (React)
 A to-do list website where we can add things to do with specific titles and content and can delete them when completed.(React.js,Node.js)
 
 ## Technologies
@@ -21,10 +21,10 @@ To clone and run this application, you'll need Git, Node.js (which comes with np
 From your command line:
 ```bash
 # Clone this repository
-git clone https://github.com/HimanthReddyGurram/toDoList-React.git
+git clone https://github.com/HimanthReddyGurram/To-do-List-React.git
 
 # Go into the repository
-$ cd toDoList-React.git
+$ cd To-do-List-React.git
 
 # Install dependencies
 npm install
